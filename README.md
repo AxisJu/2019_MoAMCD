@@ -1,2 +1,6 @@
 # MultiOmic_MCD
-Multiomic analysis of mouse cardiac development
+Multi-omics profiling visualizes dynamics of cardiac development and functions
+Abstract
+Cardiogenesis is a tightly regulated dynamic process through a continuum of differentiation and proliferation events. Key factors and pathways governing this process remain incompletely understood. Here, we investigate mice hearts from embryonic day 10.5 to postnatal week 8 and dissect developmental changes in phosphoproteome-, proteome-, metabolome-, and transcriptome-encompassing cardiogenesis and cardiac maturation. We identify mitogen-activated protein kinases as core kinases involved in transcriptional regulation by mediating the phosphorylation of chromatin remodeling proteins during early cardiogenesis. We construct the reciprocal regulatory network of transcription factors (TFs) and identify a series of TFs controlling early cardiogenesis involved in cycling-dependent proliferation. After birth, we identify cardiac resident macrophages with high arachidonic acid metabolism activities likely involved in the clearance of injured apoptotic cardiomyocytes. Together, our comprehensive multi-omics data offer a panoramic view of cardiac development and maturation that provides a resource for further in-depth functional exploration.
+
+DOI:10.1016/j.celrep.2022.111891
