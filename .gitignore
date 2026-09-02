@@ -1,0 +1,19 @@
+# R History and Environment Files
+.Rhistory
+.Rdata
+.RData
+.Rproj.user/
+.Ruserdata
+
+# RStudio & IDE
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary knit / markdown cache
+*.utf8.md
+*.knit.md
+.Rcache/
